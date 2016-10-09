@@ -82,7 +82,7 @@ class HCardBuilder extends React.Component {
               <Button
                 style={Object.assign({},this.btnStyle,{background:"#3498db"})}
                 bsStyle="primary" >
-                Create hCard
+                Create hCard 1
               </Button>
             </Col>
           </Row>
